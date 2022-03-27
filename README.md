@@ -1,8 +1,9 @@
 # Lab3web
 ## Persiapan membuat dokumen HTML berikut.
 
-###  Seperti gambar berikut
-![ganbar 78](screenshot/78.png)
+###  Seperti gambar beri
+![Screenshot (78)](https://user-images.githubusercontent.com/101470912/160284856-36e6baab-c1de-4dfc-b28d-714afb6b1789.png)
+
 ### kemudian hasilnya seperti dibawah ini
 ![gambar 79](screenshot/79.png)
 
