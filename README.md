@@ -86,7 +86,8 @@
 ![Screenshot (100)](https://user-images.githubusercontent.com/101470912/161377762-94027ab3-0a58-48f6-b6e1-ee0c2cb93d7d.png)
 
 ## hasilnya
-![Screenshot (101)](https://user-images.githubusercontent.com/101470912/161377771-6456e118-11e9-4193-9c64-e636befaaba8.png)
+![download](https://user-images.githubusercontent.com/101470912/161378008-a7b323d1-063e-41a2-9df2-09e21576dac9.jpg)
+
 
 
  # buatlah listbox dengan multiple selection.
