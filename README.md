@@ -1,11 +1,12 @@
 # Lab3web
 ## Persiapan membuat dokumen HTML berikut.
 
-###  Seperti gambar beri
+###  Seperti gambar berikut
 ![Screenshot (78)](https://user-images.githubusercontent.com/101470912/160284856-36e6baab-c1de-4dfc-b28d-714afb6b1789.png)
 
 ### kemudian hasilnya seperti dibawah ini
-![gambar 79](screenshot/79.png)
+![Screenshot (79)](https://user-images.githubusercontent.com/101470912/161377476-503a37a2-e29d-4bbd-aa2c-561024fe7c60.png)
+
 
 ### Membuat Unorderd List seperti dibawah ini
 ![gambar 80](screenshot/80.png)
