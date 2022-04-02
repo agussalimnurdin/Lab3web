@@ -86,7 +86,8 @@
 ![Screenshot (100)](https://user-images.githubusercontent.com/101470912/161377762-94027ab3-0a58-48f6-b6e1-ee0c2cb93d7d.png)
 
 ## hasilnya
-![download](https://user-images.githubusercontent.com/101470912/161378008-a7b323d1-063e-41a2-9df2-09e21576dac9.jpg)
+![Screenshot (101)](https://user-images.githubusercontent.com/101470912/161378043-898f8306-26c3-447a-8b0b-19d0787ee9b4.png)
+
 
 
 
@@ -98,7 +99,9 @@
 
 
  # terima kasih 
- ![Screenshot (103)](https://user-images.githubusercontent.com/101470912/161377916-12b611aa-0d8a-4f9d-961b-50167324cb32.png)
+ ![download](https://user-images.githubusercontent.com/101470912/161378064-9930e15e-a34e-4533-aeb0-875fa23404dd.jpg)
+
+
 
 
 
